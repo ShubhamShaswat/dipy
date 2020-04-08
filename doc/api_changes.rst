@@ -10,7 +10,7 @@ DIPY 1.1.1 changes
 
 **IO**
 
-`img.get_data()` is deprecated since Nibabel 3.0.0. Using `np.asanyarray(img.dataobj)` instead of `img.get_data()`.
+``img.get_data()` is deprecated since Nibabel 3.0.0. Using `np.asanyarray(img.dataobj)` instead of `img.get_data()`.
 
 **Tractogram**
 
